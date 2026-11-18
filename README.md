@@ -19,5 +19,7 @@ Use este prompt no seu Gemini para que ele atue como seu Mentor de Carreira. Cop
 **Instruções:**
 [Baixe o Prompt Oficial em txt](./prompt_skills.txt)
 
+forms:https://forms.gle/HTfdygaHbCkvpXtW9
+
 ---
 © IFSULDEMINAS • Embaixadora Estudantil Google
